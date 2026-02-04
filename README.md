@@ -36,3 +36,13 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Uso
+
+Si vas a reutilizar este proyecto, puedes clonarlo y personalizar textos, colores e imágenes.
+
+## Créditos
+
+Si lo publicas, agradezco mención al repositorio original.
+
+
